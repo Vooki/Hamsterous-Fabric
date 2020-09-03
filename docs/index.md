@@ -1,4 +1,4 @@
-<p><a href="../../index">Lune Page   </a> | <a href="/index">    Mod Home</a></p>
+<p><a href="../../index">Lune Page   </a> | <a href="../Hamsterous-Fabric/index">    Mod Home</a></p>
 
 <hr>
 
