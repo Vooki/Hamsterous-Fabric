@@ -3,7 +3,7 @@
 <hr>
 
 <h1>Hamsterous Mod</h1>
-  <p>My recreation of Hamsterific by Razzleberries for modern versions of Minecraft :></p>
+  <p>My recreation of Hamsterrific by Razzleberries for modern versions of Minecraft :></p>
   
 <hr>
   
